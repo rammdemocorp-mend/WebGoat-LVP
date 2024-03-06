@@ -1,0 +1,13 @@
+{
+  "settingsInheritedFrom": "rammdemocorp-mend/whitesource-config@main",
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": true
+    },
+    "enableRenovate": false,
+    "ignorePresets": ["config:recommended", "local>rammdemocorp-mend/whitesource-config:smart-merge"]
+  }
+  "leastVulnerablePackageSettings": {
+    "enabled": true
+  }
+}
