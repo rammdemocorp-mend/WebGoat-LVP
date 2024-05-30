@@ -261,6 +261,11 @@
       <artifactId>spring-boot-starter-validation</artifactId>
     </dependency>
     <dependency>
+        <groupId>ru.yandex.clickhouse</groupId>
+        <artifactId>clickhouse-jdbc</artifactId>
+        <version>0.2.6</version>
+    </dependency>
+    <dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
       <scope>provided</scope>
